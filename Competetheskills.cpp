@@ -4,7 +4,7 @@
 using namespace std;
 
 // } Driver Code Ends
-class Solution{
+//class Solution{
     public:
     void scores(long long a[], long long b[], int &ca, int &cb)
     {
