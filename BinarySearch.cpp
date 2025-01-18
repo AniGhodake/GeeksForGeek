@@ -35,7 +35,7 @@ class Solution {
 };
 
 
-//{ Driver Code Starts.
+{ Driver Code Starts.
 int main() {
     int t;
     cin >> t;
@@ -53,4 +53,4 @@ int main() {
     }
 }
 
-// } Driver Code Ends
+} Driver Code Ends
